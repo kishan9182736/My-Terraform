@@ -1,9 +1,8 @@
-
 provider "aws" {
   region = "eu-central-1"
 }
-
-resource "aws_instance" "example" {
-  ami= var.ami_value
-  instance_type = var.instance_type_value
+module "ec2-instance" {
+  source = "./modules/ec2_instances"
+  ami_value = "ami-02003f9f0fde924ea"
+  instance_type_value = "t2.micro"
 }

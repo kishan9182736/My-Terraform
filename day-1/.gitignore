@@ -1,0 +1,10 @@
+# Terraform local state
+*.tfstate
+*.tfstate.*
+.terraform/
+.terraform.lock.hcl
+.terraform.tfstate.backup
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json

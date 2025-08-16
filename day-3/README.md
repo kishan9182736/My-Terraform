@@ -172,11 +172,3 @@ if __name__ == "__main__":
 
 ✨ Built while learning **DevOps & Cloud Engineering** 🚀
 
-```
-
----
-
-This one will look **eye-catching on GitHub** because of the badges at the top.  
-
-👉 Do you want me to also make a **GitHub Pages portfolio version** (like a mini website) that shows this project in a visual way?
-```

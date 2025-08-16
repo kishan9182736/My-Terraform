@@ -1,11 +1,4 @@
-Perfect 👍 Let’s make a **fancy README** version with badges so it looks super professional on GitHub.
-This one includes ✅ badges, ✅ clean sections, ✅ same copy-paste commands, ✅ project highlights.
 
-Here’s your upgraded **README.md** ⬇️
-
----
-
-```markdown
 # 🚀 Terraform + AWS + Flask App Deployment  
 
 ![Terraform](https://img.shields.io/badge/Terraform-IaC-7B42BC?logo=terraform)  
